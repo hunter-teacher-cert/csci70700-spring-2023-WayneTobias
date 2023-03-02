@@ -27,3 +27,7 @@ folder. Make sure to use the filenames specified in the assignments.
 
 Link to homework
 https://replit.com/@waynetobias/Tobias-Homework#templates/index.html
+
+Link to homework part 2
+https://flaskhw2.waynetobias.repl.co/fish-form
+
